@@ -15,4 +15,12 @@ Website ini adalah aplikasi manajemen restoran sederhana yang mencakup fitur **C
 - **Server Lokal:** XAMPP / Laragon.
 
 ## 📸 Tampilan Website
-![Screenshot Utama](menu.png)
+
+### Halaman Utama
+![Home](dashboard.png)
+
+### Halaman Menu
+![Menu](menu.png)
+
+### Halaman CRUD Admin
+![Admin](login.png)
