@@ -16,11 +16,11 @@ Website ini adalah aplikasi manajemen restoran sederhana yang mencakup fitur **C
 
 ## 📸 Tampilan Website
 
-### Halaman Utama
+### Dashboard
 ![Home](dashboard.png)
 
 ### Halaman Menu
 ![Menu](menu.png)
 
-### Halaman CRUD Admin
+### Halaman Login
 ![Admin](login.png)
